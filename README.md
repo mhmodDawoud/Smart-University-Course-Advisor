@@ -4,8 +4,6 @@
 > conflict-free timetable, and predicts student performance.
 > Artificial Intelligence course project (group of 10).
 
-[Arabic explanation / الشرح بالعربي](README.ar.md)
-
 ---
 
 ## 1. Overview
