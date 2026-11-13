@@ -1,0 +1,6 @@
+# Python dependencies. The team fills this in as the code is written.
+# Keep it pinned (e.g. pandas==x.y.z) once versions are agreed.
+#
+# Libraries the team may consider (suggestions only, delete what you do not use):
+#   numpy, pandas, scikit-learn, matplotlib, streamlit, pytest
+#   (constraint solving / genetic algorithm libraries, or write your own)
