@@ -15,7 +15,12 @@ env/
 # OS / editors
 .DS_Store
 Thumbs.db
-.vscode/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
 .idea/
 
 # Large or generated files (keep small sample data in data/ if needed)
