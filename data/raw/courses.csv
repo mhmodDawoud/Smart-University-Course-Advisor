@@ -1,0 +1,53 @@
+course_id,name,credit_hours,level,department,semester_offered,course_type
+MATH101,Calculus I,3,1,MATH,Fall,core
+PHYS101,Physics I,3,1,PHYS,Fall,core
+CS101,Introduction to Programming,3,1,CS,Fall,core
+ENG101,Technical English,2,1,ENG,Fall,core
+HUM101,Critical Thinking,2,1,HUM,Fall,core
+MATH102,Calculus II,3,1,MATH,Spring,core
+MATH103,Discrete Mathematics,3,1,MATH,Spring,core
+CS102,Object-Oriented Programming,3,1,CS,Spring,core
+EE101,Digital Logic Design,3,1,EE,Spring,core
+ENG102,Technical Writing,2,1,ENG,Spring,core
+BUS101,Introduction to Entrepreneurship,2,1,BUS,Spring,core
+CS201,Data Structures,3,2,CS,Fall,core
+MATH201,Linear Algebra,3,2,MATH,Fall,core
+STAT201,Probability and Statistics,3,2,STAT,Fall,core
+CS203,Computer Organization,3,2,CS,Fall,core
+IS201,Database Systems,3,2,IS,Fall,core
+HUM201,Communication Skills,2,2,HUM,Fall,core
+CS202,Algorithms,3,2,CS,Spring,core
+CS204,Operating Systems,3,2,CS,Spring,core
+CS206,Software Engineering,3,2,CS,Spring,core
+CS207,Computer Networks,3,2,CS,Spring,core
+MATH202,Numerical Methods,3,2,MATH,Spring,core
+AI301,Artificial Intelligence,3,3,AI,Fall,core
+ML301,Machine Learning,3,3,AI,Fall,core
+CS301,Theory of Computation,3,3,CS,Fall,core
+CS303,Web Application Development,3,3,CS,Fall,core
+HUM301,Professional Ethics,2,3,HUM,Fall,core
+AI302,Knowledge Representation and Reasoning,3,3,AI,Spring,core
+AI303,Natural Language Processing,3,3,AI,Spring,core
+AI304,Computer Vision,3,3,AI,Spring,core
+CS302,Information Security,3,3,CS,Spring,core
+CS304,Mobile Application Development,3,3,CS,Spring,core
+SE301,Software Project Management,2,3,SE,Spring,core
+AI401,Deep Learning,3,4,AI,Fall,core
+AI403,Reinforcement Learning,3,4,AI,Fall,core
+IS401,Big Data Analytics,3,4,IS,Fall,core
+CS401,Cloud Computing,3,4,CS,Fall,core
+PRJ401,Graduation Project I,3,4,PRJ,Fall,core
+PRJ402,Graduation Project II,3,4,PRJ,Spring,core
+AI402,AI Ethics and Society,2,4,AI,Spring,core
+AI404,Robotics,3,4,AI,Spring,core
+CS402,Distributed Systems,3,4,CS,Spring,core
+IS402,Data Visualization,3,4,IS,Spring,core
+ELE301,Game Development,3,3,ELE,Both,elective
+ELE302,Bioinformatics,3,3,ELE,Both,elective
+ELE303,Internet of Things,3,3,ELE,Both,elective
+ELE304,Digital Signal Processing,3,3,ELE,Both,elective
+ELE401,Quantum Computing Basics,3,4,ELE,Both,elective
+ELE402,Blockchain Fundamentals,3,4,ELE,Both,elective
+ELE403,Human-Computer Interaction,3,4,ELE,Both,elective
+ELE404,Cyber Forensics,3,4,ELE,Both,elective
+ELE405,Speech Processing,3,4,ELE,Both,elective
